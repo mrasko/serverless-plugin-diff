@@ -26,3 +26,5 @@ node_modules
 # Reports
 coverage
 results
+
+.idea
